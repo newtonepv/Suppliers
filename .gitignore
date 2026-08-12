@@ -3,3 +3,6 @@
 *.pxt
 *.uxp
 *.uxt
+
+# Cloned Chrome profile (contains live session cookies/secrets)
+.chrome_profile_clone/
