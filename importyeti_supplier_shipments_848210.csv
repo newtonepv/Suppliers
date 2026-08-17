@@ -1,92 +1,4 @@
 name,date,shipments,country
-Schaeffler Brasil,Jan 2015,13,brazil
-Schaeffler Brasil,Apr 2015,8,brazil
-Schaeffler Brasil,Jul 2015,1,brazil
-Schaeffler Brasil,Jan 2016,1,brazil
-Schaeffler Brasil,Apr 2016,1,brazil
-Schaeffler Brasil,Oct 2017,2,brazil
-Schaeffler Brasil,Jan 2018,34,brazil
-Schaeffler Brasil,Apr 2018,29,brazil
-Schaeffler Brasil,Jul 2018,4,brazil
-Schaeffler Brasil,Oct 2018,53,brazil
-Schaeffler Brasil,Jan 2019,37,brazil
-Schaeffler Brasil,Apr 2019,47,brazil
-Schaeffler Brasil,Jul 2019,51,brazil
-Schaeffler Brasil,Oct 2019,44,brazil
-Schaeffler Brasil,Jan 2020,47,brazil
-Schaeffler Brasil,Apr 2020,40,brazil
-Schaeffler Brasil,Jul 2020,43,brazil
-Schaeffler Brasil,Oct 2020,43,brazil
-Schaeffler Brasil,Jan 2021,30,brazil
-Schaeffler Brasil,Apr 2021,38,brazil
-Schaeffler Brasil,Jul 2021,29,brazil
-Schaeffler Brasil,Oct 2021,24,brazil
-Schaeffler Brasil,Jan 2022,23,brazil
-Schaeffler Brasil,Apr 2022,18,brazil
-Schaeffler Brasil,Jul 2022,12,brazil
-Schaeffler Brasil,Oct 2022,14,brazil
-Schaeffler Brasil,Jan 2023,34,brazil
-Schaeffler Brasil,Apr 2023,22,brazil
-Schaeffler Brasil,Jul 2023,18,brazil
-Schaeffler Brasil,Oct 2023,25,brazil
-Schaeffler Brasil,Jan 2024,20,brazil
-Schaeffler Brasil,Apr 2024,8,brazil
-Schaeffler Brasil,Jul 2024,12,brazil
-Schaeffler Brasil,Oct 2024,16,brazil
-Schaeffler Brasil,Jan 2025,24,brazil
-Schaeffler Brasil,Apr 2025,45,brazil
-Schaeffler Brasil,Jul 2025,25,brazil
-Schaeffler Brasil,Oct 2025,35,brazil
-Schaeffler Brasil,Jan 2026,44,brazil
-Schaeffler Brasil,Apr 2026,34,brazil
-Schaeffler Brasil,Jul 2026,12,brazil
-Nsk Brasil,Jan 2015,5,brazil
-Nsk Brasil,Apr 2015,5,brazil
-Nsk Brasil,Jul 2015,7,brazil
-Nsk Brasil,Oct 2015,10,brazil
-Nsk Brasil,Jan 2016,3,brazil
-Nsk Brasil,Apr 2016,8,brazil
-Nsk Brasil,Jul 2016,9,brazil
-Nsk Brasil,Oct 2016,4,brazil
-Nsk Brasil,Jan 2017,8,brazil
-Nsk Brasil,Apr 2017,8,brazil
-Nsk Brasil,Jul 2017,10,brazil
-Nsk Brasil,Oct 2017,11,brazil
-Nsk Brasil,Jan 2018,8,brazil
-Nsk Brasil,Apr 2018,10,brazil
-Nsk Brasil,Jul 2018,12,brazil
-Nsk Brasil,Oct 2018,10,brazil
-Nsk Brasil,Jan 2019,9,brazil
-Nsk Brasil,Apr 2019,10,brazil
-Nsk Brasil,Jul 2019,7,brazil
-Nsk Brasil,Oct 2019,8,brazil
-Nsk Brasil,Jan 2020,8,brazil
-Nsk Brasil,Apr 2020,5,brazil
-Nsk Brasil,Jul 2020,7,brazil
-Nsk Brasil,Oct 2020,10,brazil
-Nsk Brasil,Jan 2021,7,brazil
-Nsk Brasil,Apr 2021,7,brazil
-Nsk Brasil,Jul 2021,5,brazil
-Nsk Brasil,Oct 2021,5,brazil
-Nsk Brasil,Jan 2022,4,brazil
-Nsk Brasil,Apr 2022,5,brazil
-Nsk Brasil,Jul 2022,5,brazil
-Nsk Brasil,Oct 2022,7,brazil
-Nsk Brasil,Jan 2023,11,brazil
-Nsk Brasil,Apr 2023,17,brazil
-Nsk Brasil,Jul 2023,8,brazil
-Nsk Brasil,Oct 2023,4,brazil
-Nsk Brasil,Jan 2024,4,brazil
-Nsk Brasil,Apr 2024,3,brazil
-Nsk Brasil,Jul 2024,9,brazil
-Nsk Brasil,Oct 2024,4,brazil
-Nsk Brasil,Jan 2025,6,brazil
-Nsk Brasil,Apr 2025,8,brazil
-Nsk Brasil,Jul 2025,6,brazil
-Nsk Brasil,Oct 2025,5,brazil
-Nsk Brasil,Jan 2026,7,brazil
-Nsk Brasil,Apr 2026,6,brazil
-Nsk Brasil,Jul 2026,1,brazil
 Nachi Brasil,Jan 2015,2,brazil
 Nachi Brasil,Jul 2015,3,brazil
 Nachi Brasil,Jul 2016,2,brazil
@@ -125,29 +37,6 @@ Nachi Brasil,Apr 2025,1,brazil
 Nachi Brasil,Jul 2025,2,brazil
 Nachi Brasil,Oct 2025,1,brazil
 Nachi Brasil,Jan 2026,1,brazil
-Skf Do Brasil,Jan 2015,5,brazil
-Skf Do Brasil,Apr 2015,6,brazil
-Skf Do Brasil,Jul 2015,1,brazil
-Skf Do Brasil,Oct 2015,3,brazil
-Skf Do Brasil,Jan 2016,3,brazil
-Skf Do Brasil,Jul 2016,4,brazil
-Skf Do Brasil,Oct 2016,2,brazil
-Skf Do Brasil,Jan 2017,2,brazil
-Skf Do Brasil,Apr 2017,3,brazil
-Skf Do Brasil,Jul 2017,2,brazil
-Skf Do Brasil,Oct 2017,2,brazil
-Skf Do Brasil,Apr 2018,2,brazil
-Skf Do Brasil,Jul 2018,2,brazil
-Skf Do Brasil,Jul 2020,4,brazil
-Skf Do Brasil,Oct 2020,3,brazil
-Skf Do Brasil,Jan 2021,1,brazil
-Skf Do Brasil,Apr 2023,2,brazil
-Skf Do Brasil,Jul 2023,2,brazil
-Skf Do Brasil,Apr 2024,2,brazil
-Skf Do Brasil,Jul 2024,1,brazil
-Skf Do Brasil,Apr 2025,1,brazil
-Skf Do Brasil,Jul 2025,2,brazil
-Skf Do Brasil,Jan 2026,1,brazil
 Timken South Africa,Jul 2015,2,brazil
 Timken South Africa,Oct 2015,1,brazil
 Timken South Africa,Jan 2016,1,brazil
@@ -183,14 +72,6 @@ Frm Fundicao E Pecas,Oct 2020,2,brazil
 Frm Fundicao E Pecas,Apr 2021,3,brazil
 Frm Fundicao E Pecas,Jul 2021,3,brazil
 Frm Fundicao E Pecas,Oct 2021,1,brazil
-Jas Do Brasil Agenciamento,Apr 2017,6,brazil
-Jas Do Brasil Agenciamento,Apr 2022,1,brazil
-Jas Do Brasil Agenciamento,Jul 2022,3,brazil
-Jas Do Brasil Agenciamento,Oct 2022,2,brazil
-Jas Do Brasil Agenciamento,Jan 2023,2,brazil
-Jas Do Brasil Agenciamento,Apr 2023,4,brazil
-Jas Do Brasil Agenciamento,Jul 2023,2,brazil
-Jas Do Brasil Agenciamento,Oct 2023,1,brazil
 G Paniz Industria De Equipamentos,Jan 2019,1,brazil
 G Paniz Industria De Equipamentos,Apr 2020,2,brazil
 G Paniz Industria De Equipamentos,Oct 2020,4,brazil
@@ -204,26 +85,6 @@ G Paniz Industria De Equipamentos,Apr 2024,2,brazil
 G Paniz Industria De Equipamentos,Jul 2024,2,brazil
 G Paniz Industria De Equipamentos,Oct 2024,1,brazil
 G Paniz Industria De Equipamentos,Jan 2025,1,brazil
-Allink Transportes Internacionais,Oct 2016,1,brazil
-Allink Transportes Internacionais,Jan 2017,2,brazil
-Allink Transportes Internacionais,Apr 2017,2,brazil
-Allink Transportes Internacionais,Jul 2017,1,brazil
-Allink Transportes Internacionais,Jan 2018,2,brazil
-Allink Transportes Internacionais,Jul 2018,1,brazil
-Allink Transportes Internacionais,Jan 2019,1,brazil
-Allink Transportes Internacionais,Apr 2019,1,brazil
-Allink Transportes Internacionais,Jul 2019,2,brazil
-Allink Transportes Internacionais,Oct 2019,1,brazil
-Allink Transportes Internacionais,Apr 2021,1,brazil
-Allink Transportes Internacionais,Jan 2022,1,brazil
-Panalpina World Transport Prc,Oct 2015,2,brazil
-Panalpina World Transport Prc,Oct 2016,1,brazil
-Panalpina World Transport Prc,Jan 2017,8,brazil
-Kuehne Nagel Serv Logist,Jan 2017,2,brazil
-Kuehne Nagel Serv Logist,Apr 2017,1,brazil
-Kuehne Nagel Serv Logist,Jul 2017,2,brazil
-Kuehne Nagel Serv Logist,Jan 2022,1,brazil
-Kuehne Nagel Serv Logist,Jul 2024,1,brazil
 Dedini Industria De Base,Jan 2015,2,brazil
 Dedini Industria De Base,Oct 2016,1,brazil
 Dedini Industria De Base,Apr 2019,1,brazil
@@ -234,8 +95,6 @@ Federal Mogul Valves,Apr 2021,1,brazil
 Federal Mogul Valves,Jul 2021,1,brazil
 Federal Mogul Valves,Oct 2021,2,brazil
 Federal Mogul Valves,Apr 2022,1,brazil
-Schenker Do Brasil Transp Intl,Apr 2018,2,brazil
-Schenker Do Brasil Transp Intl,Jul 2018,3,brazil
 Timken Do Brasil Comercial,Oct 2024,2,brazil
 Timken Do Brasil Comercial,Apr 2025,2,brazil
 Caterpillar Brasil,Jan 2015,2,brazil
@@ -274,37 +133,15 @@ Ntn,Oct 2022,1,canada
 Ntn,Apr 2024,1,canada
 Ntn,Jul 2025,1,canada
 Ntn,Oct 2025,1,canada
-Itn Logistics Services,Apr 2019,1,canada
-Itn Logistics Services,Jul 2019,6,canada
-Itn Logistics Services,Oct 2019,2,canada
-Nsk Canada,Jan 2015,1,canada
-Nsk Canada,Apr 2015,1,canada
-Nsk Canada,Jul 2015,1,canada
-Nsk Canada,Jan 2016,2,canada
-Nsk Canada,Oct 2019,1,canada
-Nsk Canada,Jan 2026,2,canada
 Ntn Bearing Of Canada,Jan 2015,1,canada
 Ntn Bearing Of Canada,Jul 2017,2,canada
 Ntn Bearing Of Canada,Apr 2019,1,canada
 Ntn Bearing Of Canada,Oct 2019,2,canada
 Ntn Bearing Of Canada,Apr 2023,2,canada
-Schaeffler Canada,Jul 2015,1,canada
-Schaeffler Canada,Jan 2016,1,canada
-Schaeffler Canada,Jul 2021,1,canada
-Schaeffler Canada,Apr 2023,1,canada
-Schaeffler Canada,Oct 2024,2,canada
-Schaeffler Aerospace Canada,Apr 2022,1,canada
-Schaeffler Aerospace Canada,Oct 2022,1,canada
-Schaeffler Aerospace Canada,Jul 2023,2,canada
 Metrobec,Jul 2017,2,canada
 Metrobec,Oct 2017,2,canada
-Princess Cruises,Jul 2018,1,canada
-Princess Cruises,Jul 2019,1,canada
-Princess Cruises,Jul 2024,1,canada
 Jtekt Bearings Romania S A,Apr 2026,2,canada
 Redpath Raiseboring,Oct 2023,2,canada
-Royal Caribbean Cruises,Oct 2019,1,canada
-Royal Caribbean Cruises,Jul 2023,1,canada
 Trade Link International,Jan 2022,1,canada
 Trade Link International,Jul 2022,1,canada
 Ntn Bearing Manifacturing,Oct 2019,1,canada
@@ -378,68 +215,6 @@ Jas Agent For Blue World Line,Jul 2021,9,mexico
 Jas Agent For Blue World Line,Oct 2021,9,mexico
 Jas Agent For Blue World Line,Jul 2022,3,mexico
 Jas Agent For Blue World Line,Oct 2022,5,mexico
-Schaeffler Mexico De,Jan 2015,1,mexico
-Schaeffler Mexico De,Apr 2015,1,mexico
-Schaeffler Mexico De,Oct 2015,1,mexico
-Schaeffler Mexico De,Apr 2016,2,mexico
-Schaeffler Mexico De,Jul 2017,1,mexico
-Schaeffler Mexico De,Jan 2018,1,mexico
-Schaeffler Mexico De,Apr 2018,1,mexico
-Schaeffler Mexico De,Jul 2018,4,mexico
-Schaeffler Mexico De,Oct 2018,4,mexico
-Schaeffler Mexico De,Jan 2019,3,mexico
-Schaeffler Mexico De,Apr 2019,7,mexico
-Schaeffler Mexico De,Jul 2019,6,mexico
-Schaeffler Mexico De,Oct 2019,8,mexico
-Schaeffler Mexico De,Jan 2020,3,mexico
-Schaeffler Mexico De,Apr 2020,4,mexico
-Schaeffler Mexico De,Jul 2020,10,mexico
-Schaeffler Mexico De,Oct 2020,10,mexico
-Schaeffler Mexico De,Jan 2021,3,mexico
-Schaeffler Mexico De,Apr 2021,6,mexico
-Schaeffler Mexico De,Jul 2021,9,mexico
-Schaeffler Mexico De,Oct 2021,2,mexico
-Schaeffler Mexico De,Jan 2022,1,mexico
-Schaeffler Mexico De,Apr 2022,10,mexico
-Schaeffler Mexico De,Jul 2022,6,mexico
-Schaeffler Mexico De,Oct 2022,2,mexico
-Schaeffler Mexico De,Jan 2023,3,mexico
-Skf De Mexico De,Jan 2015,2,mexico
-Skf De Mexico De,Apr 2015,4,mexico
-Skf De Mexico De,Jul 2015,1,mexico
-Skf De Mexico De,Oct 2015,2,mexico
-Skf De Mexico De,Jan 2016,1,mexico
-Skf De Mexico De,Oct 2016,3,mexico
-Skf De Mexico De,Apr 2017,1,mexico
-Skf De Mexico De,Jul 2017,2,mexico
-Skf De Mexico De,Apr 2018,6,mexico
-Skf De Mexico De,Jul 2018,4,mexico
-Skf De Mexico De,Oct 2018,3,mexico
-Skf De Mexico De,Jan 2019,5,mexico
-Skf De Mexico De,Apr 2019,2,mexico
-Skf De Mexico De,Jul 2019,4,mexico
-Skf De Mexico De,Oct 2019,1,mexico
-Skf De Mexico De,Jan 2020,1,mexico
-Skf De Mexico De,Jul 2020,2,mexico
-Skf De Mexico De,Oct 2020,3,mexico
-Skf De Mexico De,Jan 2021,2,mexico
-Skf De Mexico De,Apr 2021,1,mexico
-Skf De Mexico De,Jul 2021,1,mexico
-Skf De Mexico De,Apr 2022,2,mexico
-Skf De Mexico De,Jul 2022,2,mexico
-Skf De Mexico De,Oct 2022,5,mexico
-Skf De Mexico De,Jan 2023,2,mexico
-Skf De Mexico De,Apr 2023,1,mexico
-Skf De Mexico De,Oct 2023,6,mexico
-Skf De Mexico De,Jan 2024,4,mexico
-Skf De Mexico De,Apr 2024,1,mexico
-Skf De Mexico De,Jul 2024,3,mexico
-Skf De Mexico De,Oct 2024,4,mexico
-Skf De Mexico De,Jan 2025,4,mexico
-Skf De Mexico De,Apr 2025,1,mexico
-Skf De Mexico De,Jul 2025,1,mexico
-Skf De Mexico De,Oct 2025,1,mexico
-Skf De Mexico De,Apr 2026,1,mexico
 Woco De Mexico De,Oct 2019,1,mexico
 Woco De Mexico De,Jan 2020,5,mexico
 Woco De Mexico De,Apr 2020,1,mexico
@@ -461,28 +236,6 @@ Jtekt Latin America S A,Oct 2024,2,mexico
 Jtekt Latin America S A,Apr 2025,11,mexico
 Jtekt Latin America S A,Oct 2025,6,mexico
 Jtekt Latin America S A,Jan 2026,4,mexico
-Jas Forwarding China,Apr 2017,1,mexico
-Jas Forwarding China,Jul 2017,4,mexico
-Jas Forwarding China,Oct 2017,4,mexico
-Jas Forwarding China,Jan 2018,2,mexico
-Jas Forwarding China,Apr 2018,1,mexico
-Jas Forwarding China,Jul 2018,2,mexico
-Jas Forwarding China,Oct 2018,2,mexico
-Jas Forwarding China,Jan 2019,2,mexico
-Jas Forwarding China,Apr 2019,3,mexico
-Jas Forwarding China,Jul 2019,2,mexico
-Jas Forwarding China,Oct 2019,1,mexico
-Jas Forwarding China,Jan 2020,2,mexico
-Jas Forwarding China,Apr 2020,1,mexico
-Jas Forwarding China,Jul 2020,1,mexico
-Jas Forwarding China,Jan 2021,2,mexico
-Jas Forwarding China,Apr 2021,2,mexico
-Jas Forwarding China,Jul 2021,1,mexico
-Jas Forwarding China,Apr 2022,1,mexico
-Jas Forwarding China,Jul 2022,2,mexico
-Jas Forwarding China,Jan 2023,4,mexico
-Jas Forwarding China,Apr 2023,1,mexico
-Jas Forwarding China,Jul 2023,2,mexico
 Ntn Sudamericana S A,Jul 2016,1,mexico
 Ntn Sudamericana S A,Jan 2017,1,mexico
 Ntn Sudamericana S A,Jul 2017,2,mexico
@@ -504,28 +257,6 @@ Ntn Sudamericana S A,Apr 2024,1,mexico
 Ntn Sudamericana S A,Oct 2025,3,mexico
 Ntn Sudamericana S A,Jan 2026,1,mexico
 Ntn Sudamericana S A,Apr 2026,1,mexico
-Dsv Air & Sea,Jul 2018,2,mexico
-Dsv Air & Sea,Oct 2018,2,mexico
-Dsv Air & Sea,Jan 2019,7,mexico
-Dsv Air & Sea,Apr 2019,5,mexico
-Dsv Air & Sea,Jul 2019,6,mexico
-Dsv Air & Sea,Jan 2020,5,mexico
-Dsv Air & Sea,Apr 2020,3,mexico
-Dsv Air & Sea,Jul 2022,4,mexico
-Dhl Global Forwarding China,Jul 2015,1,mexico
-Dhl Global Forwarding China,Jul 2018,1,mexico
-Dhl Global Forwarding China,Jul 2019,3,mexico
-Dhl Global Forwarding China,Oct 2019,5,mexico
-Dhl Global Forwarding China,Jan 2020,1,mexico
-Dhl Global Forwarding China,Apr 2020,2,mexico
-Dhl Global Forwarding China,Jul 2020,2,mexico
-Dhl Global Forwarding China,Oct 2020,3,mexico
-Dhl Global Forwarding China,Jan 2021,1,mexico
-Dhl Global Forwarding China,Jul 2021,2,mexico
-Dhl Global Forwarding China,Oct 2021,3,mexico
-Dhl Global Forwarding China,Jan 2022,2,mexico
-Dhl Global Forwarding China,Apr 2022,3,mexico
-Dhl Global Forwarding China,Jul 2022,2,mexico
 Koyo Latin America S A,Oct 2015,1,mexico
 Koyo Latin America S A,Jul 2016,1,mexico
 Koyo Latin America S A,Oct 2016,1,mexico
@@ -540,24 +271,6 @@ Koyo Latin America S A,Oct 2021,4,mexico
 Koyo Latin America S A,Jul 2022,1,mexico
 Koyo Latin America S A,Apr 2023,1,mexico
 Koyo Latin America S A,Jul 2023,6,mexico
-Tci Intl Logistics,Apr 2015,1,mexico
-Tci Intl Logistics,Jul 2015,1,mexico
-Tci Intl Logistics,Apr 2016,2,mexico
-Tci Intl Logistics,Jul 2018,1,mexico
-Tci Intl Logistics,Jul 2020,1,mexico
-Tci Intl Logistics,Apr 2021,1,mexico
-Tci Intl Logistics,Oct 2022,1,mexico
-Tci Intl Logistics,Jan 2023,1,mexico
-Tci Intl Logistics,Apr 2023,3,mexico
-Tci Intl Logistics,Jul 2023,2,mexico
-Tci Intl Logistics,Oct 2023,1,mexico
-Tci Intl Logistics,Jan 2024,1,mexico
-Tci Intl Logistics,Apr 2024,2,mexico
-Tci Intl Logistics,Jul 2024,2,mexico
-Tci Intl Logistics,Oct 2024,2,mexico
-Tci Intl Logistics,Jan 2025,2,mexico
-Tci Intl Logistics,Apr 2025,1,mexico
-Tci Intl Logistics,Jul 2025,1,mexico
 Woco Tech De Mexico De,Jul 2019,2,mexico
 Woco Tech De Mexico De,Oct 2019,9,mexico
 Woco Tech De Mexico De,Jan 2020,3,mexico
@@ -567,14 +280,6 @@ Woco Tech De Mexico De,Oct 2020,3,mexico
 Woco Tech De Mexico De,Jan 2021,2,mexico
 Woco Tech De Mexico De,Apr 2021,1,mexico
 Woco Tech De Mexico De,Jul 2021,2,mexico
-Dhl Global Forwarding Panama,Apr 2020,2,mexico
-Dhl Global Forwarding Panama,Jul 2020,4,mexico
-Dhl Global Forwarding Panama,Oct 2020,2,mexico
-Dhl Global Forwarding Panama,Jan 2021,1,mexico
-Dhl Global Forwarding Panama,Jan 2022,6,mexico
-Dhl Global Forwarding Panama,Apr 2022,2,mexico
-Dhl Global Forwarding Panama,Jul 2022,2,mexico
-Dhl Global Forwarding Panama,Oct 2022,1,mexico
 Jas An Agent Of Blue Worldline,Jul 2021,6,mexico
 Jas An Agent Of Blue Worldline,Jan 2022,12,mexico
 Jas An Agent Of Blue Worldline,Apr 2022,1,mexico
@@ -585,13 +290,6 @@ Timken De Mexico De,Apr 2021,4,mexico
 Timken De Mexico De,Jul 2021,3,mexico
 Timken De Mexico De,Oct 2021,1,mexico
 Timken De Mexico De,Jan 2025,1,mexico
-Servicios Logisticos Dylo S A De,Jan 2021,1,mexico
-Servicios Logisticos Dylo S A De,Oct 2022,1,mexico
-Servicios Logisticos Dylo S A De,Jan 2023,1,mexico
-Servicios Logisticos Dylo S A De,Apr 2023,2,mexico
-Servicios Logisticos Dylo S A De,Apr 2025,2,mexico
-Servicios Logisticos Dylo S A De,Jul 2025,3,mexico
-Servicios Logisticos Dylo S A De,Oct 2025,1,mexico
 Timken De Mexico S A De C V,Oct 2016,1,mexico
 Timken De Mexico S A De C V,Jan 2017,1,mexico
 Timken De Mexico S A De C V,Apr 2017,5,mexico
@@ -603,27 +301,6 @@ International Multimodal Shipments,Apr 2016,2,mexico
 International Multimodal Shipments,Jul 2016,3,mexico
 International Multimodal Shipments,Oct 2016,2,mexico
 International Multimodal Shipments,Jan 2017,2,mexico
-Schaeffler India,Oct 2017,2,india
-Schaeffler India,Jan 2018,2,india
-Schaeffler India,Apr 2018,6,india
-Schaeffler India,Jul 2018,7,india
-Schaeffler India,Jul 2019,3,india
-Schaeffler India,Jul 2020,2,india
-Schaeffler India,Jan 2022,1,india
-Schaeffler India,Oct 2022,38,india
-Schaeffler India,Jan 2023,76,india
-Schaeffler India,Apr 2023,45,india
-Schaeffler India,Jul 2023,78,india
-Schaeffler India,Oct 2023,37,india
-Schaeffler India,Jan 2024,17,india
-Schaeffler India,Apr 2024,22,india
-Schaeffler India,Jul 2024,58,india
-Schaeffler India,Oct 2024,48,india
-Schaeffler India,Jan 2025,68,india
-Schaeffler India,Apr 2025,54,india
-Schaeffler India,Jul 2025,56,india
-Schaeffler India,Oct 2025,57,india
-Schaeffler India,Jan 2026,65,india
 National Engineering Industries,Jan 2015,51,india
 National Engineering Industries,Apr 2015,64,india
 National Engineering Industries,Jul 2015,86,india
@@ -670,52 +347,6 @@ National Engineering Industries,Jul 2025,7,india
 National Engineering Industries,Oct 2025,7,india
 National Engineering Industries,Jan 2026,7,india
 National Engineering Industries,Apr 2026,1,india
-Skf India,Jan 2015,8,india
-Skf India,Apr 2015,9,india
-Skf India,Jul 2015,6,india
-Skf India,Oct 2015,6,india
-Skf India,Jan 2016,4,india
-Skf India,Apr 2016,5,india
-Skf India,Jul 2016,9,india
-Skf India,Oct 2016,7,india
-Skf India,Jan 2017,8,india
-Skf India,Apr 2017,8,india
-Skf India,Jul 2017,29,india
-Skf India,Oct 2017,20,india
-Skf India,Jan 2018,14,india
-Skf India,Apr 2018,11,india
-Skf India,Jul 2018,22,india
-Skf India,Oct 2018,10,india
-Skf India,Jan 2019,7,india
-Skf India,Apr 2019,12,india
-Skf India,Jul 2019,11,india
-Skf India,Oct 2019,6,india
-Skf India,Jan 2020,7,india
-Skf India,Apr 2020,5,india
-Skf India,Jul 2020,4,india
-Skf India,Oct 2020,5,india
-Skf India,Jan 2021,4,india
-Skf India,Apr 2021,5,india
-Skf India,Jul 2021,12,india
-Skf India,Oct 2021,32,india
-Skf India,Jan 2022,9,india
-Skf India,Apr 2022,8,india
-Skf India,Jul 2022,10,india
-Skf India,Oct 2022,1,india
-Skf India,Jan 2023,3,india
-Skf India,Apr 2023,4,india
-Skf India,Jul 2023,11,india
-Skf India,Oct 2023,9,india
-Skf India,Jan 2024,14,india
-Skf India,Apr 2024,15,india
-Skf India,Jul 2024,9,india
-Skf India,Oct 2024,11,india
-Skf India,Jan 2025,10,india
-Skf India,Apr 2025,6,india
-Skf India,Jul 2025,7,india
-Skf India,Oct 2025,2,india
-Skf India,Jan 2026,1,india
-Skf India,Apr 2026,7,india
 Augusta International,Oct 2018,8,india
 Augusta International,Jan 2019,17,india
 Augusta International,Apr 2019,11,india
