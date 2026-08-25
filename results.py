@@ -1,20 +1,4 @@
-"""Custo de importacao por quilo: historico e leque de incerteza.
 
-Historico vem da secao 7 do caderno (dataweb_price_series.csv). O leque a frente
-vem da secao 8: sigma_h{h}_% e o desvio das variacoes de log em h meses. Entre os
-horizontes estimados (1, 3, 6 e 12) o sigma e interpolado — nao extrapolado por
-raiz de h, porque nestas series sigma_h1 ja e quase sigma_h12 e a raiz inventaria
-um acumulo que o dado nao mostra.
-
-Sem tendencia: o scorecard nao estima nenhuma, entao a mediana projetada e o ultimo
-preco observado e so a incerteza cresce.
-
-O preco a frente e lognormal, P_h = P0 * exp(sigma_h * Z). Os quantis dela tem
-forma fechada, entao nao ha simulacao aqui: um Monte Carlo so aproximaria com ruido
-amostral o que NormalDist calcula exato.
-
-    .venv/bin/streamlit run app.py
-"""
 from statistics import NormalDist
 
 import matplotlib.pyplot as plt
